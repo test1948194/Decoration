@@ -1,0 +1,68 @@
+﻿<Window x:Class="DecorationWpf.ProductManagementWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:DecorationWpf"
+        Title="Форма товара" Height="600" Width="500" WindowStartupLocation="CenterOwner"
+        FontFamily="{StaticResource Comic}">
+    <Grid Margin="15">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Text="Форма товара" FontSize="20" FontWeight="Bold" Margin="0,0,0,10"/>
+
+        <ScrollViewer Grid.Row="1" VerticalScrollBarVisibility="Auto">
+            <StackPanel>
+                <TextBlock Text="Артикул:" Margin="0,5,0,0"/>
+                <TextBox x:Name="tbArticle" Height="30"/>
+
+                <TextBlock Text="Наименование:" Margin="0,5,0,0"/>
+                <TextBox x:Name="tbName" Height="30"/>
+
+                <TextBlock Text="Единица измерения:" Margin="0,5,0,0"/>
+                <ComboBox x:Name="cbUnit" Height="30" DisplayMemberPath="Название" SelectedValuePath="id_ед_изм"/>
+
+                <TextBlock Text="Категория:" Margin="0,5,0,0"/>
+                <ComboBox x:Name="cbCategory" Height="30" DisplayMemberPath="Название" SelectedValuePath="id_категории"/>
+
+                <TextBlock Text="Стоимость:" Margin="0,5,0,0"/>
+                <TextBox x:Name="tbPrice" Height="30"/>
+
+                <TextBlock Text="Размер максимальной скидки:" Margin="0,5,0,0"/>
+                <TextBox x:Name="tbMaxDiscount" Height="30"/>
+
+                <TextBlock Text="Производитель:" Margin="0,5,0,0"/>
+                <ComboBox x:Name="cbManufacturer" Height="30" DisplayMemberPath="Имя" SelectedValuePath="id_производителя"/>
+
+                <TextBlock Text="Поставщик:" Margin="0,5,0,0"/>
+                <ComboBox x:Name="cbSupplier" Height="30" DisplayMemberPath="Имя" SelectedValuePath="id_поставщика"/>
+
+                <TextBlock Text="Действующая скидка:" Margin="0,5,0,0"/>
+                <TextBox x:Name="tbDiscount" Height="30"/>
+
+                <TextBlock Text="Количество на складе:" Margin="0,5,0,0"/>
+                <TextBox x:Name="tbStock" Height="30"/>
+
+                <TextBlock Text="Описание:" Margin="0,5,0,0"/>
+                <TextBox x:Name="tbDescription" Height="60" TextWrapping="Wrap"/>
+
+                <TextBlock Text="Путь к изображению:" Margin="0,5,0,0"/>
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="Auto"/>
+                    </Grid.ColumnDefinitions>
+                    <TextBox x:Name="tbImagePath" Grid.Column="0" Height="30" IsReadOnly="True"/>
+                    <Button Content="Обзор..." Grid.Column="1" Click="BrowseImage_Click" Padding="10,0" Margin="5,0,0,0" Height="30"/>
+                </Grid>
+            </StackPanel>
+        </ScrollViewer>
+
+        <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Right" Margin="0,10,0,0">
+            <Button Content="Сохранить" Click="Save_Click" Background="{StaticResource Accent}" Foreground="White" Padding="15,5" Margin="0,0,10,0"/>
+            <Button Content="Отмена" Click="Cancel_Click" Padding="15,5"/>
+        </StackPanel>
+    </Grid>
+</Window>

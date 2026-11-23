@@ -1,0 +1,67 @@
+D:\C# projects\DecorationWpf\DecorationWpf\bin\Debug\DecorationWpf.exe.config
+D:\C# projects\DecorationWpf\DecorationWpf\bin\Debug\DecorationWpf.exe
+D:\C# projects\DecorationWpf\DecorationWpf\bin\Debug\DecorationWpf.pdb
+D:\C# projects\DecorationWpf\DecorationWpf\bin\Debug\EntityFramework.dll
+D:\C# projects\DecorationWpf\DecorationWpf\bin\Debug\EntityFramework.SqlServer.dll
+D:\C# projects\DecorationWpf\DecorationWpf\bin\Debug\EntityFramework.xml
+D:\C# projects\DecorationWpf\DecorationWpf\bin\Debug\EntityFramework.SqlServer.xml
+D:\C# projects\DecorationWpf\DecorationWpf\bin\Debug\ru\EntityFramework.resources.dll
+D:\C# projects\DecorationWpf\DecorationWpf\obj\Debug\DecorationWpf.csproj.AssemblyReference.cache
+D:\C# projects\DecorationWpf\DecorationWpf\obj\Debug\AuthWindow.g.cs
+D:\C# projects\DecorationWpf\DecorationWpf\obj\Debug\ProductWindow.g.cs
+D:\C# projects\DecorationWpf\DecorationWpf\obj\Debug\App.g.cs
+D:\C# projects\DecorationWpf\DecorationWpf\obj\Debug\DecorationWpf_Content.g.cs
+D:\C# projects\DecorationWpf\DecorationWpf\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\C# projects\DecorationWpf\DecorationWpf\obj\Debug\DecorationWpf_MarkupCompile.cache
+D:\C# projects\DecorationWpf\DecorationWpf\obj\Debug\DecorationWpf_MarkupCompile.lref
+D:\C# projects\DecorationWpf\DecorationWpf\obj\Debug\App.baml
+D:\C# projects\DecorationWpf\DecorationWpf\obj\Debug\AuthWindow.baml
+D:\C# projects\DecorationWpf\DecorationWpf\obj\Debug\ProductWindow.baml
+D:\C# projects\DecorationWpf\DecorationWpf\obj\Debug\Resources\StyleDictionary.baml
+D:\C# projects\DecorationWpf\DecorationWpf\obj\Debug\DecorationWpf.g.resources
+D:\C# projects\DecorationWpf\DecorationWpf\obj\Debug\DecorationWpf.Properties.Resources.resources
+D:\C# projects\DecorationWpf\DecorationWpf\obj\Debug\DecorationWpf.csproj.GenerateResource.cache
+D:\C# projects\DecorationWpf\DecorationWpf\obj\Debug\DecorationWpf.csproj.CoreCompileInputs.cache
+D:\C# projects\DecorationWpf\DecorationWpf\obj\Debug\DecorationWpf.csproj.CopyComplete
+D:\C# projects\DecorationWpf\DecorationWpf\obj\Debug\DecorationWpf.exe
+D:\C# projects\DecorationWpf\DecorationWpf\obj\Debug\DecorationWpf.pdb
+D:\C# projects\DecorationWpf\DecorationWpf\obj\Debug\OrderManagementWindow.g.cs
+D:\C# projects\DecorationWpf\DecorationWpf\obj\Debug\OrderWindow.g.cs
+D:\C# projects\DecorationWpf\DecorationWpf\obj\Debug\ProductManagementWindow.g.cs
+D:\C# projects\DecorationWpf\DecorationWpf\obj\Debug\OrderManagementWindow.baml
+D:\C# projects\DecorationWpf\DecorationWpf\obj\Debug\OrderWindow.baml
+D:\C# projects\DecorationWpf\DecorationWpf\obj\Debug\ProductManagementWindow.baml
+C:\Users\pr113pinlipyn.OAT\Desktop\Готовый вариант 4\Вариант 4\ГОТОВОЕ\DecorationWpf\DecorationWpf\obj\Debug\DecorationWpf.csproj.AssemblyReference.cache
+C:\Users\pr113pinlipyn.OAT\Desktop\Готовый вариант 4\Вариант 4\ГОТОВОЕ\DecorationWpf\DecorationWpf\obj\Debug\DecorationWpf.csproj.SuggestedBindingRedirects.cache
+C:\Users\pr113pinlipyn.OAT\Desktop\Готовый вариант 4\Вариант 4\ГОТОВОЕ\DecorationWpf\DecorationWpf\obj\Debug\AuthWindow.g.cs
+C:\Users\pr113pinlipyn.OAT\Desktop\Готовый вариант 4\Вариант 4\ГОТОВОЕ\DecorationWpf\DecorationWpf\obj\Debug\OrderManagementWindow.g.cs
+C:\Users\pr113pinlipyn.OAT\Desktop\Готовый вариант 4\Вариант 4\ГОТОВОЕ\DecorationWpf\DecorationWpf\obj\Debug\OrderWindow.g.cs
+C:\Users\pr113pinlipyn.OAT\Desktop\Готовый вариант 4\Вариант 4\ГОТОВОЕ\DecorationWpf\DecorationWpf\obj\Debug\ProductManagementWindow.g.cs
+C:\Users\pr113pinlipyn.OAT\Desktop\Готовый вариант 4\Вариант 4\ГОТОВОЕ\DecorationWpf\DecorationWpf\obj\Debug\ProductWindow.g.cs
+C:\Users\pr113pinlipyn.OAT\Desktop\Готовый вариант 4\Вариант 4\ГОТОВОЕ\DecorationWpf\DecorationWpf\obj\Debug\App.g.cs
+C:\Users\pr113pinlipyn.OAT\Desktop\Готовый вариант 4\Вариант 4\ГОТОВОЕ\DecorationWpf\DecorationWpf\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\pr113pinlipyn.OAT\Desktop\Готовый вариант 4\Вариант 4\ГОТОВОЕ\DecorationWpf\DecorationWpf\obj\Debug\DecorationWpf_MarkupCompile.cache
+C:\Users\pr113pinlipyn.OAT\Desktop\Готовый вариант 4\Вариант 4\ГОТОВОЕ\DecorationWpf\DecorationWpf\obj\Debug\DecorationWpf_MarkupCompile.lref
+C:\Users\pr113pinlipyn.OAT\Desktop\Готовый вариант 4\Вариант 4\ГОТОВОЕ\DecorationWpf\DecorationWpf\bin\Debug\DecorationWpf.exe.config
+C:\Users\pr113pinlipyn.OAT\Desktop\Готовый вариант 4\Вариант 4\ГОТОВОЕ\DecorationWpf\DecorationWpf\bin\Debug\DecorationWpf.exe
+C:\Users\pr113pinlipyn.OAT\Desktop\Готовый вариант 4\Вариант 4\ГОТОВОЕ\DecorationWpf\DecorationWpf\bin\Debug\DecorationWpf.pdb
+C:\Users\pr113pinlipyn.OAT\Desktop\Готовый вариант 4\Вариант 4\ГОТОВОЕ\DecorationWpf\DecorationWpf\bin\Debug\EntityFramework.dll
+C:\Users\pr113pinlipyn.OAT\Desktop\Готовый вариант 4\Вариант 4\ГОТОВОЕ\DecorationWpf\DecorationWpf\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pr113pinlipyn.OAT\Desktop\Готовый вариант 4\Вариант 4\ГОТОВОЕ\DecorationWpf\DecorationWpf\bin\Debug\EntityFramework.xml
+C:\Users\pr113pinlipyn.OAT\Desktop\Готовый вариант 4\Вариант 4\ГОТОВОЕ\DecorationWpf\DecorationWpf\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pr113pinlipyn.OAT\Desktop\Готовый вариант 4\Вариант 4\ГОТОВОЕ\DecorationWpf\DecorationWpf\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\pr113pinlipyn.OAT\Desktop\Готовый вариант 4\Вариант 4\ГОТОВОЕ\DecorationWpf\DecorationWpf\obj\Debug\DecorationWpf_Content.g.cs
+C:\Users\pr113pinlipyn.OAT\Desktop\Готовый вариант 4\Вариант 4\ГОТОВОЕ\DecorationWpf\DecorationWpf\obj\Debug\App.baml
+C:\Users\pr113pinlipyn.OAT\Desktop\Готовый вариант 4\Вариант 4\ГОТОВОЕ\DecorationWpf\DecorationWpf\obj\Debug\AuthWindow.baml
+C:\Users\pr113pinlipyn.OAT\Desktop\Готовый вариант 4\Вариант 4\ГОТОВОЕ\DecorationWpf\DecorationWpf\obj\Debug\OrderManagementWindow.baml
+C:\Users\pr113pinlipyn.OAT\Desktop\Готовый вариант 4\Вариант 4\ГОТОВОЕ\DecorationWpf\DecorationWpf\obj\Debug\OrderWindow.baml
+C:\Users\pr113pinlipyn.OAT\Desktop\Готовый вариант 4\Вариант 4\ГОТОВОЕ\DecorationWpf\DecorationWpf\obj\Debug\ProductManagementWindow.baml
+C:\Users\pr113pinlipyn.OAT\Desktop\Готовый вариант 4\Вариант 4\ГОТОВОЕ\DecorationWpf\DecorationWpf\obj\Debug\ProductWindow.baml
+C:\Users\pr113pinlipyn.OAT\Desktop\Готовый вариант 4\Вариант 4\ГОТОВОЕ\DecorationWpf\DecorationWpf\obj\Debug\Resources\StyleDictionary.baml
+C:\Users\pr113pinlipyn.OAT\Desktop\Готовый вариант 4\Вариант 4\ГОТОВОЕ\DecorationWpf\DecorationWpf\obj\Debug\DecorationWpf.g.resources
+C:\Users\pr113pinlipyn.OAT\Desktop\Готовый вариант 4\Вариант 4\ГОТОВОЕ\DecorationWpf\DecorationWpf\obj\Debug\DecorationWpf.Properties.Resources.resources
+C:\Users\pr113pinlipyn.OAT\Desktop\Готовый вариант 4\Вариант 4\ГОТОВОЕ\DecorationWpf\DecorationWpf\obj\Debug\DecorationWpf.csproj.GenerateResource.cache
+C:\Users\pr113pinlipyn.OAT\Desktop\Готовый вариант 4\Вариант 4\ГОТОВОЕ\DecorationWpf\DecorationWpf\obj\Debug\DecorationWpf.csproj.CoreCompileInputs.cache
+C:\Users\pr113pinlipyn.OAT\Desktop\Готовый вариант 4\Вариант 4\ГОТОВОЕ\DecorationWpf\DecorationWpf\obj\Debug\DecorationWpf.csproj.CopyComplete
+C:\Users\pr113pinlipyn.OAT\Desktop\Готовый вариант 4\Вариант 4\ГОТОВОЕ\DecorationWpf\DecorationWpf\obj\Debug\DecorationWpf.exe
+C:\Users\pr113pinlipyn.OAT\Desktop\Готовый вариант 4\Вариант 4\ГОТОВОЕ\DecorationWpf\DecorationWpf\obj\Debug\DecorationWpf.pdb
